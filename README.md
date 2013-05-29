@@ -1,4 +1,4 @@
 BubblesEffect-JQuery
 ====================
 
-Library: JQuery and Blur
+Library: JQuery and Concurrent.Thread
